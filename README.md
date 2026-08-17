@@ -76,6 +76,6 @@ We analyze performance using **Fréchet Inception Distance (FID)** and showcase
 | ResNet-WGAN-GP         | ~217       |
 | CLIP Encoder           | ~239       |
 
-## Authors
+## Author
 - Jhori Ayush Prakash Satish (ch23btech11022@iith.ac.in)  
 *(IIT Hyderabad)* 
